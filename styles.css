@@ -1,9 +1,19 @@
 body {
-  background-color: powderblue;
+  background-color: Pink;
 }
 h1 {
   color: blue;
+  font-family : Palatino;
+  border: 2px solid tomato;
+  padding: 30px;
+  margin: 20px;
 }
 p {
   color: red;
+  font-family: consolas;
+  text-align: center;
+}
+a{
+	font-family: impact;
+	color: black;
 }
